@@ -5,7 +5,7 @@ go 1.24.0
 require (
 	github.com/alecthomas/kingpin/v2 v2.4.0
 	github.com/jedib0t/go-pretty/v6 v6.6.8
-	github.com/projectdiscovery/gologger v1.1.54
+	github.com/projectdiscovery/gologger v1.1.55
 )
 
 require (
